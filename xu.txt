@@ -1,8 +1,8 @@
 凤凰,#genre#
 凤凰资讯,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
 凤凰中文,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
-凤凰资讯1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰中文1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 
 港澳台,#genre#
 凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
